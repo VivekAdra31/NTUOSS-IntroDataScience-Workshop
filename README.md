@@ -1,6 +1,6 @@
 # NTUOSS-IntroDataScience-Workshop
 # Introduction to Data Science 
-![]("https://raw.githubusercontent.com/VivekAdra31/NTUOSS-IntroDataScience-Workshop/master/images/Logo.png")
+![](/images/Logo.png)
 
 # What is Data Science?
 1. Have you ever wondered how Amazon, eBay suggest items for you to buy?
@@ -9,7 +9,8 @@
 
 **Data science is all about using data to solve problems.**
 ## So, the core job of a data scientist is to understand the data, extract useful information out of it and apply this in solving the problems.
-
+![](/images/Data2.png)
+![](/images/Fields2.png)
 # Data Science Life Cycle:
 1. **Problem Formulation:**
    Understanding the Business Problem and formulating it with Data
@@ -56,5 +57,20 @@
    3. Voice
    4. Video
 
+## What is AI?How are AI and Data Science Related? 
+### Answer: Both of them are linked by Machine Learning
 
+![](/images/AI2.png)
 
+## After This Brief Introduction to Data Science, We jump in to get our hands dirty by a Small Data Science Project of our own!
+1. First thing to do: Go download the Dataset from <a href="https://archive.ics.uci.edu/ml/machine-learning-databases/00477/">Here</a>.
+1. Next, make sure you have all Python3 and these libraries installed:
+   1. numpy
+   2. pandas
+   3. matplotlib
+   4. seaborn
+   5. sklearn
+   6. jupyter notebooks
+   If not, heres how to install:
+   <a href="https://www.liquidweb.com/kb/install-pip-windows/">pip on windows</a> /<a href="https://www.shellhacks.com/python-install-pip-mac-ubuntu-centos/">pip on mac and linux</a> then just use **pip/pip3 install packageName** to install the package
+1. Clone the repository and follow the Python Notebook to successfully build your first machine learning model!
