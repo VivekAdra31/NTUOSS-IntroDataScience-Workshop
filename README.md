@@ -1,7 +1,7 @@
 # NTUOSS-IntroDataScience-Workshop
 # Introduction to Data Science 
-<img src="images/Logo.png" align=left width=200 height=200></img>
-![image info]("/images/Logo.png")
+![Artwork by Brendan Hyde]("https://github.com/VivekAdra31/NTUOSS-IntroDataScience-Workshop/images/Logo.png")
+
 # What is Data Science?
 1. Have you ever wondered how Amazon, eBay suggest items for you to buy?
 1. How Gmail filters your emails in the spam and non-spam categories?
