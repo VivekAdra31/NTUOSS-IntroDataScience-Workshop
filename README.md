@@ -1,6 +1,6 @@
 # NTUOSS-IntroDataScience-Workshop
 # Introduction to Data Science 
-![Artwork by Brendan Hyde]("https://github.com/VivekAdra31/NTUOSS-IntroDataScience-Workshop/images/Logo.png")
+![]("https://raw.githubusercontent.com/VivekAdra31/NTUOSS-IntroDataScience-Workshop/master/images/Logo.png")
 
 # What is Data Science?
 1. Have you ever wondered how Amazon, eBay suggest items for you to buy?
