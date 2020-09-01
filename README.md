@@ -2,6 +2,13 @@
 # Introduction to Data Science 
 ![](/images/Logo.png)
 
+## Pre-Requisites for this Workshop:
+1. Basic Python:
+  (Some Good Places to pick up Basic Python quickly)
+   1. https://www.learnpython.org -Interactive python Tutorials
+   1. https://python.swaroopch.com 
+   1. https://www.youtube.com/watch?v=rfscVS0vtbw - A 4 hour long basic python course
+
 # What is Data Science?
 1. Have you ever wondered how Amazon, eBay suggest items for you to buy?
 1. How Gmail filters your emails in the spam and non-spam categories?
@@ -74,3 +81,8 @@
    If not, heres how to install:
    <a href="https://www.liquidweb.com/kb/install-pip-windows/">pip on windows</a> /<a href="https://www.shellhacks.com/python-install-pip-mac-ubuntu-centos/">pip on mac and linux</a> then just use **pip/pip3 install packageName** to install the package
 1. Clone the repository and follow the Python Notebook to successfully build your first machine learning model!
+
+## After the Workshop:
+If I've managed to pique your interest in the subject, you can go ahead and try to read articles on <a href="https://towardsdatascience.com">Medium's Towards Data Science</a> Section. Don't be afraid to get your hands dirty in some competitions on <a href="https://www.kaggle.com">Kaggle</a> too!
+
+Finally, If you want a more theoretical base to Machine Learning, you can try <a href="https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_content=07-StanfordML-IN&campaignid=1950458127&adgroupid=69480953983&device=c&keyword=study%20machine%20learning%20online&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=351281535285&hide_mobile_promo&gclid=CjwKCAjw4rf6BRAvEiwAn2Q76rUILuheSiapyRhqbdDTCfV3rcsKLlNH9Ai_XQTW75cJmD1ii6FhURoCKiIQAvD_BwE">Andrew Ng's Machine Learning</a> on Coursera!
